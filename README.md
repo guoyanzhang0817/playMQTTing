@@ -1,5 +1,5 @@
 # reason
-Just want to play mqtt and Git.
+Just want to play mqtt/git/json/sqlite3.
 
 # questions
-For any questions, please contact email 1746902011@qq.com
+For any question, please contact e-mail yanzhang.guo@qq.com
