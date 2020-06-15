@@ -1,3 +1,5 @@
+# note
+I have installed mosquitto in Debian system.
 # reason
 Just want to play mqtt/git/json/sqlite3.
 
